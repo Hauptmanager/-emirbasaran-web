@@ -25,13 +25,13 @@ function degistir() {
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Merhaba Emir!</h1>
-    <p>Web developer olmaya başlıyorum 🚀</p>
+    <h1>Projelerim ve ben hakkında!</h1>
+    <p>Web developer yolunda 2026 şubat</p>
     <button onclick="degistir()">Tıkla!</button>
 
     <script>
         function degistir() {
-            document.querySelector("p").innerText = "Harika işler yapıyoruz 🔥";
+            document.querySelector("p").innerText = "gelişim aşamasında bir proje";
         }
     </script>
 </body>
