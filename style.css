@@ -3,8 +3,8 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 30px;
-    background: linear-gradient(120deg, #0078ff, #00c6ff);
-    color: #fff;
+    background: linear-gradient(120deg, #041178, #00c6ff);
+    color: #8065e0;
 }
 
 header h1 {
@@ -19,7 +19,7 @@ header p {
 
 button {
     padding: 12px 28px;
-    background-color: #041178;
+    background-color: #0078ff;
     color: #0f421f;
     border: none;
     border-radius: 8px;
