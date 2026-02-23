@@ -22,16 +22,17 @@ index.html
         </ul>
     </section>
 
+    
+    <p>Butona Bas</p>
     <button onclick="degistir()">iletişim için bas</button>
 
     <script>
         let sayac = 0;
-        function degistir() {
-            document.querySelector("p").innerText = "+90 555 *** ** 8 telefon";
-               }
 
 function degistir() {
     sayac++;
+    
+    document.querySelector("p").innerText = "Butona " + sayac + " kere bastın";
 
     if (sayac % 3 === 1) {
         document.body.style.backgroundColor = "orange";
