@@ -20,6 +20,13 @@ header p {
 }
 
 button {
+
+  background: #ffdd57;
+  padding: 12px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+
     padding: 12px 28px;
     background-color: #0078ff;
     color: #0f421f;
